@@ -11,23 +11,23 @@ import TradeInfo from '../components/TradeInfo/TradeInfo'
 const Aboutpage = () => {
   return (
     <>
-    <main className='landpage'>
-    <Header />
-      <section className='about-landpage my-about'>
-        <div className="about-page-text">
-          <div className="videoframe-text-container about-intro">
-            <h1>about  <span className="highlight">vaultrisegroup </span></h1>
-        </div>
-        </div>
-      </section>
-      <Copytrade />
-      <TradeInfo />
-      <Why />
-      <About />
-      <ForexAnalysisSection />
-      {/* <Contact /> */}
-    </main>
-    <Footer /></>
+      <main className='landpage'>
+        <Header />
+        <section className='about-landpage my-about'>
+          <div className="about-page-text">
+            <div className="videoframe-text-container about-intro">
+              <h1>about  <span className="highlight">vaultexpertgroup </span></h1>
+            </div>
+          </div>
+        </section>
+        <Copytrade />
+        <TradeInfo />
+        <Why />
+        <About />
+        <ForexAnalysisSection />
+        {/* <Contact /> */}
+      </main>
+      <Footer /></>
   )
 }
 

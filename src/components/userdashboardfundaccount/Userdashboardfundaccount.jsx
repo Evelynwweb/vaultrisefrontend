@@ -44,7 +44,7 @@ const Userdashboardfundaccount = ({route}) => {
       min:500,
       max:1000,
       image:'/tron.png',
-      method:'tether(TRC20) ',
+      method:'USDT (TRC20) ',
       wallet:'THVkUw54e1LsZBXQsnWJiEVViA2H55taj3'
     },
     {
