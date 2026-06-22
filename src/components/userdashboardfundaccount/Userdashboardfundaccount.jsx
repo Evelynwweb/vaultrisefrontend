@@ -51,10 +51,19 @@ const Userdashboardfundaccount = ({route}) => {
       id:4,
       min:500,
       max:1000,
-      image:'/solana.png',
-      method:'Solana (SOL) ',
-      wallet:'5xrpByV27wmkTWjDBPmE3a2n17xZnFPW1ACeadaZbHSg'
+      image:'/tron.png',
+      method:'Bep20 ',
+      wallet:'0xe7CD116B6761C0aF1D9Df716229C1a9fECfF0Ffc'
     },
+    {
+      id:5,
+      min:500,
+      max:1000,
+      image:'/tron.png',
+      method:'ERC20 ',
+      wallet:'0xe7CD116B6761C0aF1D9Df716229C1a9fECfF0Ffc'
+    },
+    
   ])
 
   // sweel alert code 
