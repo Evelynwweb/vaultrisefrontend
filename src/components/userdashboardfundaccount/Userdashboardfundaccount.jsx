@@ -51,16 +51,16 @@ const Userdashboardfundaccount = ({route}) => {
       id:4,
       min:500,
       max:1000,
-      image:'/tron.png',
-      method:'Bep20 ',
+      image:'/bep.png',
+      method:'USDT (BEP 20)',
       wallet:'0xe7CD116B6761C0aF1D9Df716229C1a9fECfF0Ffc'
     },
     {
       id:5,
       min:500,
       max:1000,
-      image:'/tron.png',
-      method:'ERC20 ',
+      image:'/erc.jpg',
+      method:'USDT (ERC 20) ',
       wallet:'0xe7CD116B6761C0aF1D9Df716229C1a9fECfF0Ffc'
     },
     
